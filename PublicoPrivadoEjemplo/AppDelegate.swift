@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  PublicoPrivadoEjemplo
 //
-//  Created by Emiliano on 12/10/2021.
+//  Created by Vanesa Korbenfeld on 12/10/2021.
 //
 
 import UIKit
